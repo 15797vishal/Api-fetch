@@ -1,0 +1,20 @@
+* {
+    margin: 2px;
+    padding: 0px;
+
+}
+
+img {
+    width: 20px;
+
+}
+
+td:nth-child(5) {
+    color: rgb(54, 211, 54)
+}
+
+.table-group-divider {
+    border-top: 20px; 
+    border-bottom: 30px;
+    margin-top: 20px;
+}
